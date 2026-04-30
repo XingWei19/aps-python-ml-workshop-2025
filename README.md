@@ -1,6 +1,3 @@
-# aps-python-ml-workshop-2025
-Introduction of Python and Machine Learning for Plant Pathologists – APS Plant Health 2025
-
 # Introduction
 The workshop materials were presented during the in-person annual meeting of the American Phytopathology Society (APS), held in Honolulu, Hawaii, U.S., on August 2, 2025. 
 
