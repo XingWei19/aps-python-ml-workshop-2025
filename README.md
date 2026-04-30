@@ -1,26 +1,30 @@
-# Introduction
-The workshop materials were presented during the in-person annual meeting of the American Phytopathology Society (APS), held in Honolulu, Hawaii, U.S., on August 2, 2025. 
+# Python and Machine Learning for Plant Pathologists
+
+## About
+An introduction to Python and machine learning for plant pathologists, prepared and presented by Drs. Huaijin Chen, Josiah Marquez, and Xing Wei. The workshop materials were presented during the in-person annual meeting of the American Phytopathology Society (APS), held in Honolulu, Hawaii, U.S., on August 2, 2025.
 
 The workshop included three sections:
+### Session I: 
+Introduction of Python for plant pathologists, prepared by [Dr. Huaijin Chen](https://www.linkedin.com/in/huaijinchen/). The Colab notebook for the first session is available at [01-intro-python-chen.ipynb](https://github.com/XingWei19/aps-python-ml-workshop-2025/blob/main/01_python_chen/01-intro-python-chen.ipynb).
+### Session II:
+Introduction of Pandas for plant pathologists, prepared by [Dr. Josiah Marquez](https://www.linkedin.com/in/josiah-marquez-ba324089/). The Colab notebook for the second session is available at [02-intro-pandas-marquez.ipynb](https://github.com/XingWei19/aps-python-ml-workshop-2025/tree/main/02_pandas_marquez).
+### Session III: 
+Introduction of machine learning and its applications in plant pathology by [Dr. Xing Wei](https://www.linkedin.com/in/xingwei19). The Colab notebook for the third session is available at [03-intro-ml-wei.ipynb](https://github.com/XingWei19/aps-python-ml-workshop-2025/blob/main/03_machine_learning_wei/03-intro-ml-wei.ipynb).
 
-Section I: Introduction of Python for plant pathologists, prepared by Dr. Huaijin Chen. The folder for this section is 01_python_chen, and the Colab notebook is 01-intro-python-chen.ipynb.
-
-Section II: Introduction of Pandas for plant pathologists, prepared by Dr. Josiah Marquez. The folder for this section is 02_pandas_marquez, and the Colab notebook is 02-intro-pandas-marquez.ipynb.
-
-Section III: Introduction of machine learning and its applications in plant pathology by Dr. Xing Wei. The folder for this section is 03_machine_learning_wei, and the Colab notebook is 03-intro-ml-wei.ipynb.
-
-# Objectives: 
+## Objectives: 
 1.	Understand the basics of Python, including variables, data types, and functions, etc.
 2.	Use of the Pandas package in Python to organize and visualize large datasets relevant to plant pathology.
 3.	Explore the use of Python in implementing machine-learning-based prediction and classification algorithms for plant disease phenotyping studies.
- 
-# Acknowledgments:
+
+## Running Environments:
+All workshop materials are designed to run in Google Colab.
+
+## Acknowledgments:
 We would like to thank the organizers of this workshop: Drs. Nikita Gambhir, Daniel Heck, and Camila Nicolli. The workshop was sponsored by BASF and Valent BioSciences.
 
-# Reference: 
+## Reference: 
 Please cite: 
 
 ## Licenses
-Code (scripts, notebooks) is licensed under the MIT License.
-
-Slides, documentation, and teaching materials are licensed under CC BY 4.0.
+Codes (scripts, notebooks) are licensed under the MIT License.
+Documentations and teaching materials are licensed under CC BY 4.0.
