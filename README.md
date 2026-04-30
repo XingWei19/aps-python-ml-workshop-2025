@@ -25,4 +25,5 @@ Please cite:
 
 ## Licenses
 Code (scripts, notebooks) is licensed under the MIT License.
+
 Slides, documentation, and teaching materials are licensed under CC BY 4.0.
