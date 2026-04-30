@@ -3,9 +3,12 @@ Introduction of Python and Machine Learning for Plant Pathologists – APS Plant
 
 # Introduction
 The workshop materials were presented during the in-person annual meeting of the American Phytopathology Society (APS), held in Honolulu, Hawaii, U.S., on August 2, 2025. 
+
 The workshop included three sections:
 Section I: Introduction of Python for plant pathologists, prepared by Dr. Huaijin Chen. The folder for this section is 01_python_chen, and the Colab notebook is 01-intro-python-chen.ipynb.
+
 Section II: Introduction of Pandas for plant pathologists, prepared by Dr. Josiah Marquez. The folder for this section is 02_pandas_marquez, and the Colab notebook is 02-intro-pandas-marquez.ipynb.
+
 Section III: Introduction of machine learning and its applications in plant pathology by Dr. Xing Wei. The folder for this section is 03_machine_learning_wei, and the Colab notebook is 03-intro-ml-wei.ipynb.
 
 # Objectives: 
