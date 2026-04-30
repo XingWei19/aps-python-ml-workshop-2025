@@ -1,9 +1,9 @@
 # Python and Machine Learning for Plant Pathologists
 
 ## About
-An introduction to Python and machine learning for plant pathologists, prepared and presented by Drs. Huaijin Chen, Josiah Marquez, and Xing Wei. The workshop materials were presented during the in-person annual meeting of the American Phytopathology Society (APS), held in Honolulu, Hawaii, U.S., on August 2, 2025.
+An introduction to Python and machine learning for plant pathologists in the American Phytopathology Society (APS) and beyond. This workshop series began in 2022 as the first APS workshop dedicated to introducing Python and machine learning to plant pathologists and was expanded into an in-person format in 2025.
 
-The workshop included three sections:
+The 2025 in-person workshop included three sections:
 ### Session I: 
 Introduction of Python for plant pathologists, prepared by [Dr. Huaijin Chen](https://www.linkedin.com/in/huaijinchen/). The Colab notebook for the first session is available at [01-intro-python-chen.ipynb](https://github.com/XingWei19/aps-python-ml-workshop-2025/blob/main/01_python_chen/01-intro-python-chen.ipynb).
 ### Session II:
@@ -20,7 +20,7 @@ Introduction of machine learning and its applications in plant pathology by [Dr.
 All workshop materials are designed to run in Google Colab.
 
 ## Acknowledgments:
-We would like to thank the organizers of this workshop: Drs. Nikita Gambhir, Daniel Heck, and Camila Nicolli. The workshop was sponsored by BASF and Valent BioSciences.
+We want to thank the organizers of this workshop: Drs. Nikita Gambhir, Daniel Heck, and Camila Nicolli. We would also like to thank BASF and Valent BioSciences for sponsoring this in-person workshop.
 
 ## Reference: 
 Please cite: 
