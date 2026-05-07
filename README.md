@@ -23,7 +23,7 @@ All workshop materials are designed to run in Google Colab.
 We want to thank the organizers of this workshop: Drs. Nikita Gambhir, Daniel Heck, and Camila Nicolli. We would also like to thank BASF and Valent BioSciences for sponsoring this in-person workshop.
 
 ## Cite this work: 
-Wei, X., Chen, H., and Marquez, J. 2026. Python and Machine Learning for Plant Pathologists: APS Plant Health 2025 Workshop Materials. Zenodo. https://doi.org/10.5281/zenodo.19933567
+Wei, X., Marquez, J., and Chen, H. 2026. Python and Machine Learning for Plant Pathologists: APS Plant Health 2025 Workshop Materials. Zenodo. https://doi.org/10.5281/zenodo.19933567
 
 ## Licenses
 Codes (scripts, notebooks) are licensed under the MIT License.
